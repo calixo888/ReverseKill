@@ -1,0 +1,4 @@
+INSTRUCTIONS:
+1. Make sure you edit the IP address and port inputs at the very bottom of EACH program, and change it to an open port and attacking machine IP address.
+2. If you do want to try to hack into a different machine, use pyinstaller to convert the python file into an executable. You can install pyinstaller by entering 'pip install pyinstaller' into the terminal and typing 'pyinstaller --onefile --noconsole <python file name> <new file name>. You can change the file extension to work on different operating systems. For example, the new file name could be example.exe for Windows or example.app for MacOS.
+3. Be sure to run the listener before the reverse shell. The reverse shell connects back to the listener, not vice versa. 
