@@ -1,2 +1,2 @@
-# reversekill
-Reverse Shell with a Listener
+# ReverseKill
+ReverseKill consists of two main programs: a listener and a reverse shell. ReverseKill is a type of backdoor, a very popular and dangerous hacking technique used by hackers everywhere. ReverseKill is completely undetectable by all anti-virus programs, due to its unique coding signature. The basic function of this program is to take over the terminal system of another computer, allowing to download, write, remove, and modify files and directories. It works on all operating systems, but the terminal commands differ between different operating systems. The executeables for this program are included for each operating system. The reverse shell part of the program is the program that must be downloaded on the target computer, and the listener is being used by you, the hacker. Therefore, there is no executeable for the listener, just the reverse shell. 
